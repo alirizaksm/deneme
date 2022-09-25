@@ -1,0 +1,24 @@
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# img
+*.jpg
+*.png
+img/
+
+# videos
+*.mp4
+
+# packages
+
+# log
+*.log
+
+password.txt
+
+#neden password.txt yi almak istemedim çünkü bu projemin içerisindeki şifreleri tutuyor olabilir. kendi localimde tutmak istiyorum başka yerde tutmak istemiyorum paylaşmak istemedim.
+
