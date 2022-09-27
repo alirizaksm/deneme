@@ -4,3 +4,9 @@
 msalfklafklmsdfsdl
 dşslkflşklşaskfşlksşlfkşls
 
+*sasad
+-lksdaskklas
+
+[lorem ipsum](http://google.com)
+
+*italic* **bold** ***bolditalic***
