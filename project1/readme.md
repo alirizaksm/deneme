@@ -9,4 +9,19 @@ dşslkflşklşaskfşlksşlfkşls
 
 [lorem ipsum](http://google.com)
 
+
+---
+
 *italic* **bold** ***bolditalic***
+
+```python
+print("hello world")
+```
+
+```javascript
+console.log("hello world")
+
+function helloworld() {
+    console.log("hello world")
+}
+```
