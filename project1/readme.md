@@ -4,8 +4,8 @@
 msalfklafklmsdfsdl
 dşslkflşklşaskfşlksşlfkşls
 
-*sasad
--lksdaskklas
+* sasad
+- lksdaskklas
 
 [lorem ipsum](http://google.com)
 
